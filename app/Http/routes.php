@@ -11,6 +11,6 @@
 |
 */
 
-Route::get('hello/lisheng', function () {
+Route::get('hello', function () {
     return view('welcome');
 });
